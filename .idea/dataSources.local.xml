@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal" created-in="IU-221.6008.13">
+    <data-source name="s105374933_db@mercury.swin.edu.au" uuid="e43a2e82-8861-4f33-99af-f5a2a576852b">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" dbms="MARIADB" exact-version="0" />
+      <secret-storage>master_key</secret-storage>
+      <user-name>s105374933</user-name>
+      <schema-mapping />
+    </data-source>
+  </component>
+</project>
